@@ -2,7 +2,9 @@
 
 ###
 
-<p align="center">I'm Saad Alhusseiny, a Frontend Developer from Egypt.</p>
+<p align="center">
+  <strong>I'm Saad Alhusseiny, a Frontend Developer from Egypt.</strong>
+</p>
 
 ###
 
