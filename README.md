@@ -27,7 +27,7 @@
 <h2 align="left">I code with</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,css,html,tailwind,github,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,css,html,tailwind,github,git,vscode,figma,python" />
 </p>
 
 
