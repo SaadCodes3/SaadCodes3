@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I enjoy building modern, responsive, and high-performance web applications.<br><br>- 🌱 Currently improving my skills in JavaScript and React<br>- 💡 Interested in UI/UX Design and Frontend Best Practices<br>- 🎯 My goal is to work as a professional Frontend Developer</p>
+<p align="left">I enjoy building modern, responsive, and high-performance web applications.<br><br>- 🌱 Currently improving my skills in JavaScript and React.<br>- 💡 Interested in UI/UX Design and Frontend Best Practices.<br>- 🎯 My goal is to work as a professional Frontend Developer.</p>
 
 ###
 
