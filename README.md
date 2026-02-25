@@ -34,7 +34,7 @@
 ###
 
 <h2 align="left">🌐 Socials: </h2>
-###
+
 <p align="center">
   <a href="https://facebook.com/s3dhs/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
