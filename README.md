@@ -21,9 +21,6 @@
 </div>
 
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
-
-
 <h2 align="left">I code with</h2>
 
 <p align="center">
