@@ -8,15 +8,15 @@ Building modern, responsive and user-focused web experiences.
 
 <br>
 
-<a href="https://www.linkedin.com/in/saad-alhusseiny">
+<a href="https://www.linkedin.com/in/saad-alhusseiny" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:saadalhusseiny1@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO_URL">
+<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -75,49 +75,36 @@ Building modern, responsive and user-focused web experiences.
 ### 🏛 Pharaohs Legacy
 A modern landing page inspired by Ancient Egyptian civilization.
 
-**Tech Stack**
+**Tech Stack:** React • TypeScript • Tailwind CSS
 
-React • TypeScript • Tailwind CSS
+[🔗 Live Demo](https://YOUR_PROJECT_LINK) | [💻 GitHub Code](https://YOUR_REPOSITORY_LINK)
 
 ---
 
 ### 🛒 Matjary E-Commerce
-
 A responsive e-commerce web application with modern UI and reusable components.
 
-**Tech Stack**
+**Tech Stack:** React • TypeScript • Tailwind CSS
 
-React • TypeScript • Tailwind CSS
+[🔗 Live Demo](https://YOUR_PROJECT_LINK) | [💻 GitHub Code](https://YOUR_REPOSITORY_LINK)
 
 ---
 
 ### 🎬 Movie App
-
 Search movies, browse trending films and explore movie details.
+
+**Tech Stack:** React • JavaScript • Tailwind CSS • TMDB API
+
+[🔗 Live Demo](https://YOUR_PROJECT_LINK) | [💻 GitHub Code](https://YOUR_REPOSITORY_LINK)
 
 ---
 
 ### 🌦 Weather App
-
 Real-time weather application powered by API integration.
 
----
+**Tech Stack:** React • JavaScript • CSS • OpenWeather API
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaadCodes3&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadCodes3&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SaadCodes3&theme=transparent&hide_border=true"/>
-
-</p>
+[🔗 Live Demo](https://YOUR_PROJECT_LINK) | [💻 GitHub Code](https://YOUR_REPOSITORY_LINK)
 
 ---
 
@@ -125,15 +112,15 @@ Real-time weather application powered by API integration.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/saad-alhusseiny">
+<a href="https://www.linkedin.com/in/saad-alhusseiny" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/SaadCodes3">
+<a href="https://github.com/SaadCodes3" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:saadalhusseiny1@gmail.com">
 <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48"/>
 </a>
 
