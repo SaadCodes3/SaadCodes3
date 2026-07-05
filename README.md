@@ -24,10 +24,10 @@ Building modern, responsive and user-focused web experiences.
 
 # 💫 About Me
 
-💻 Passionate about building modern web applications.
-⚛️ Specialized in React ecosystem.
-🎨 Love creating clean UI with great user experience.
-📚 Currently learning **Node.js** to become a Full-Stack Developer.
+💻 Passionate about building modern web applications.<br>
+⚛️ Specialized in React ecosystem.<br>
+🎨 Love creating clean UI with great user experience.<br>
+📚 Currently learning **Node.js** to become a Full-Stack Developer.<br>
 🚀 Always improving my problem-solving and frontend architecture skills.
 
 ---
