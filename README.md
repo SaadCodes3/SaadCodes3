@@ -25,9 +25,8 @@ Building modern, responsive and user-focused web experiences.
 # 💫 About Me
 
 💻 Passionate about building modern web applications.<br>
-⚛️ Specialized in React ecosystem.<br>
+⚛️ Focused on the React ecosystem.<br>
 🎨 Love creating clean UI with great user experience.<br>
-📚 Currently learning **Node.js** to become a Full-Stack Developer.<br>
 🚀 Always improving my problem-solving and frontend architecture skills.
 
 ---
@@ -36,8 +35,8 @@ Building modern, responsive and user-focused web experiences.
 
 - Building real-world React applications
 - Mastering TypeScript
-- Learning Backend with Node.js
 - Writing clean and scalable code
+- Improving frontend architecture skills
 - Exploring AI integration into Web Applications
 
 ---
@@ -52,11 +51,6 @@ Building modern, responsive and user-focused web experiences.
 ### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,postman" />
-</p>
-
-### Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 
