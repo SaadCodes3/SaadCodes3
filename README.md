@@ -59,35 +59,6 @@ Building modern, responsive and user-focused web experiences.
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
----
-
-# ⭐ Featured Projects
-
-### 🏛 Pharaohs Legacy
-A modern landing page inspired by Ancient Egyptian civilization.
-* **Tech Stack:** React • TypeScript • Tailwind CSS
-* [🔗 Live Demo](https://YOUR_PROJECT_LINK) | [💻 GitHub Code](https://YOUR_REPOSITORY_LINK)
-
----
-
-### 🛒 Matjary E-Commerce
-A responsive e-commerce web application with modern UI and reusable components.
-* **Tech Stack:** React • TypeScript • Tailwind CSS
-* [🔗 Live Demo](https://YOUR_PROJECT_LINK) | [💻 GitHub Code](https://YOUR_REPOSITORY_LINK)
-
----
-
-### 🎬 Movie App
-Search movies, browse trending films and explore movie details.
-* **Tech Stack:** React • JavaScript • Tailwind CSS • TMDB API
-* [🔗 Live Demo](https://YOUR_PROJECT_LINK) | [💻 GitHub Code](https://YOUR_REPOSITORY_LINK)
-
----
-
-### 🌦 Weather App
-Real-time weather application powered by API integration.
-* **Tech Stack:** React • JavaScript • CSS • OpenWeather API
-* [🔗 Live Demo](https://YOUR_PROJECT_LINK) | [💻 GitHub Code](https://YOUR_REPOSITORY_LINK)
 
 ---
 
