@@ -58,9 +58,6 @@ Building modern, responsive and user-focused web experiences.
 
 <div align="center">
 
-### 💭 Quote
-> **"Great software isn't built in a day. It's built one commit at a time."**
-
 ⭐ Thanks for visiting my profile!
 
 </div>
