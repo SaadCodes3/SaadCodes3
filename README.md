@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Saad Alhusseiny
 
-### Front-End Developer | React & TypeScript Enthusiast
+### Front-End Developer | React & TypeScript
 
 Building modern, responsive and user-focused web experiences.
 
